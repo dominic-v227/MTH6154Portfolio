@@ -2,7 +2,7 @@
 
 [Back to contents](../README.md)
 
-## Summary
+## Summarydc
 
 In your own words, the main ideas of the lesson. Short sentences are fine.
 
