@@ -38,6 +38,8 @@ e)Find the effective interest rates reff
  iv) (Pe^r-P)/P= e^r-1=e^0.03-1= as the effective annual rate for continuous compuhnding is e^r-1
 f) Suppose the inflation rate is 2%. Calculate the ‘inflation adjusted interest rate’ for each case 
 From part a, 
+g) Suppose interest is compounded semi-annually.How long will it take for the bank balance to grow to £1000? 
+For this part, you need to work out the time t when the formula A= P(1+r/n)^nt=£1000  by taking logs,In(1000/700)=2tIn(1.015) t=11.98 so round up to get 12 years
 
 ## Spreadsheet
 
