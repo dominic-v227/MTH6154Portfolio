@@ -32,10 +32,10 @@ d) How much money will be in the bank account three years from now if the intere
 Using a different formula in A=Pe^rt, A=700e^0.03*3=£765.92
 e)Find the effective interest rates reff
  for each case
- i) reff= (1+0.03)-1 as for one year you use the formula from part a and subtract P from it and divide it all by P
- ii) reff=(1+0.03/12)^12 -1 as for one year you use the formula from part a and subtract P from it and divide it all by P
- iii) reff=(1+0.03/2)^2 -1 as for one year you use the formula from part a and subtract P from it and divide it all by P
- iv) (Pe^r-P)/P= e^r-1=e^0.03-1= as the effective annual rate for continuous compuhnding is e^r-1
+ i) reff= (1+0.03)-1=0.03 as for one year you use the formula from part a and subtract P from it and divide it all by P
+ ii) reff=(1+0.03/12)^12 -1= 0.0304 as for one year you use the formula from part a and subtract P from it and divide it all by P
+ iii) reff=(1+0.03/2)^2 -1= 0.0302 as for one year you use the formula from part a and subtract P from it and divide it all by P
+ iv) (Pe^r-P)/P= e^r-1=e^0.03-1=0.0305 as the effective annual rate for continuous compounding is e^r-1
 f) Suppose the inflation rate is 2%. Calculate the ‘inflation adjusted interest rate’ for each case 
 From part a, 
 g) Suppose interest is compounded semi-annually.How long will it take for the bank balance to grow to £1000? 
