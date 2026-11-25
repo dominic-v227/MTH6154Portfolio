@@ -14,9 +14,10 @@ $$
 $$
 
 ## My example
+A bank advertises a nominal annual interest rate of 8%, compounded quarterly. What is the effective annual interest rate?
+solution: The formula is reff=(1+r/n)^n-1 so using r=0.8 and n=4 in this case, (1+0.08/4)^4 -1=0.0824=8.24%
 
-A situation you made up (your own numbers, not the ones in the lecture
-notes), worked step by step.
+.
 
 ## Solved exercises
 
